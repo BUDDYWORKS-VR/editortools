@@ -1,0 +1,13 @@
+{
+  "name" : "wtf.buddyworks.editortools",
+  "displayName" : "BUDDYWORKS Editor Tools",
+  "version" : "1.0.0",
+  "unity" : "2022.3",
+  "description" : "Various neat things for Unity.",
+  "author": {
+    "name": "BUDDYWORKS",
+    "email": "hi@buddyworks.wtf"
+  },
+    "vpmDependencies" : {
+  }
+}
