@@ -4,4 +4,5 @@
 
 **Current Features:**  
 History - A neat little selection history, allows pin to avoid items disappearing.  
+Vibes - CTRL+ALT+SHIFT+W  
 *Idea from adamgryu/InspectorHistory-Unity*
